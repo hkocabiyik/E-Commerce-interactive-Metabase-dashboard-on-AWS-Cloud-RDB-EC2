@@ -17,3 +17,4 @@ The interactive dashboard is about “Northwind Traders”, a fictional company.
 - upload the data to a cloud database (AWS RDS)
 
 - build an interactive dashboard on a cloud server (AWS EC2)
+http://ec2-18-209-229-212.compute-1.amazonaws.com/dashboard/3-northwind-dashboard 
